@@ -11,7 +11,7 @@
 
 ## ‌二、下载安装
 
-###1.下载
+### 1.下载
 ```bash
 # 下载 
 cd /opt 
@@ -22,7 +22,7 @@ tar -xzf jaeger-1.68.0-linux-amd64.tar.gz
 cd jaeger-1.68.0-linux-amd64
 
 ```
-###2.启动 jaeger
+### 2.启动 jaeger
 ```bash
 ./jaeger-all-in-one
 ```
