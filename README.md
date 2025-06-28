@@ -27,7 +27,7 @@
 
 **Performance/Latency Optimization:** Optimize service performance and response time through tracking data.
 
-The open-source image product [**Jaeger Distributed Tracing System**](https://marketplace.huaweicloud.com/hidden/contents/f339961a-eb5a-4c3b-87f1-306496e6368c#productid=OFFI1121282090660507648) provided by this project has Jaeger version 1.68.0 and its related operating environment pre-installed, and also provides deployment templates. Refer to the usage guide and start your "out-of-the-box" efficient experience now!
+The open-source image product [**Jaeger Distributed Tracing System**]() provided by this project has Jaeger version 1.68.0 and its related operating environment pre-installed, and also provides deployment templates. Refer to the usage guide and start your "out-of-the-box" efficient experience now!
 
 > **System Requirements:**
 > - CPU: 2vCPUs or higher
@@ -42,7 +42,7 @@ The open-source image product [**Jaeger Distributed Tracing System**](https://ma
 
 | Image Specification | Feature Description | Remarks |
 | --- | --- | --- |
-| [Jaeger1.68.0-arm-v1](https://github.com/HuaweiCloudDeveloper/jaeger-image/tree/Jaeger1.68.0-arm-v1) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| [Jaeger-1.68.0-kunpeng-HCE](https://github.com/HuaweiCloudDeveloper/jaeger-image/tree/Jaeger-1.68.0-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Get Help
 

@@ -28,7 +28,7 @@
 
 **‌性能/延迟优化‌：** 通过跟踪数据，优化服务的性能和响应时间。
 
-本项目提供的开源镜像商品 [**Jaeger分布式追踪系统**](https://marketplace.huaweicloud.com/hidden/contents/f339961a-eb5a-4c3b-87f1-306496e6368c#productid=OFFI1121282090660507648) 已预先安装1.68.0版本的Jaeger及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**Jaeger分布式追踪系统**](https://marketplace.huaweicloud.com/contents/f339961a-eb5a-4c3b-87f1-306496e6368c#productid=OFFI1121282090660507648) 已预先安装1.68.0版本的Jaeger及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 
 > **系统要求如下：**
@@ -41,9 +41,9 @@
 
 ## 镜像说明
 
-| 镜像规格 | 特性说明 | 备注 |
-| --- | --- | --- |
-| [Jaeger1.68.0-arm-v1](https://github.com/HuaweiCloudDeveloper/jaeger-image/tree/Jaeger1.68.0-arm-v1) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| 镜像规格                                                                                                         | 特性说明 | 备注 |
+|--------------------------------------------------------------------------------------------------------------| --- | --- |
+| [Jaeger-1.68.0-kunpeng-HCE](https://github.com/HuaweiCloudDeveloper/jaeger-image/tree/Jaeger-1.68.0-kunpeng) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/jaeger-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
