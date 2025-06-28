@@ -27,7 +27,7 @@
 
 **Performance/Latency Optimization:** Optimize service performance and response time through tracking data.
 
-The open-source image product [**Jaeger Distributed Tracing System**]() provided by this project has Jaeger version 1.68.0 and its related operating environment pre-installed, and also provides deployment templates. Refer to the usage guide and start your "out-of-the-box" efficient experience now!
+The open-source image product [**Jaeger Distributed Tracing System**](https://marketplace.huaweicloud.com/intl/hidden/contents/d9d761d4-f02c-4bfa-9d8d-ea347bd001d8) provided by this project has Jaeger version 1.68.0 and its related operating environment pre-installed, and also provides deployment templates. Refer to the usage guide and start your "out-of-the-box" efficient experience now!
 
 > **System Requirements:**
 > - CPU: 2vCPUs or higher
