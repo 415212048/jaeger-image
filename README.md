@@ -42,7 +42,7 @@ The open-source image product [**Jaeger Distributed Tracing System**](https://ma
 
 | Image Specification | Feature Description | Remarks |
 | --- | --- | --- |
-| [Jaeger-1.68.0-kunpeng-HCE](https://github.com/HuaweiCloudDeveloper/jaeger-image/tree/Jaeger-1.68.0-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| [Jaeger-1.68.0-kunpeng](https://github.com/HuaweiCloudDeveloper/jaeger-image/tree/Jaeger-1.68.0-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Get Help
 
